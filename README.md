@@ -95,6 +95,8 @@ Tell OpenCode:
 Fetch and follow instructions from https://raw.githubusercontent.com/obra/superpowers/refs/heads/main/.opencode/INSTALL.md
 ```
 
+**Knowledge base:** [docs/README.md](docs/README.md)
+
 **Detailed docs:** [docs/README.opencode.md](docs/README.opencode.md)
 
 ### GitHub Copilot CLI
