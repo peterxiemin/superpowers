@@ -1,0 +1,3 @@
+[submodule "lifecore/work/harness/superpowers"]
+	path = lifecore/work/harness/superpowers
+	url = https://github.com/peterxiemin/superpowers.git
